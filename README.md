@@ -5,7 +5,7 @@ final-project-F6645Q created by GitHub Classroom
 )
 <h1 align="center">Hi Iam Fahad Alghamdi </h1>
 <h3 align="center">CTF player and software engineering student at Prince Sattam bin Abdulaziz University</h3>
+<h3 algin="left">
 
-
-<p align="left">
+<p align="left">In my project in software engineering, I chose the Hungerstation application and applied all that I learned in the curriculum, including the steps of creating the application, using construction methods and techniques, knowing the difference between engineering functional and non-functional requirements, and knowing the methods used in building well-known applications and the methodology used among the team. In the end, I thank Dr. Muhammad Asiri for enriching us with the information that With it we completed our project</h3>
 </p>
