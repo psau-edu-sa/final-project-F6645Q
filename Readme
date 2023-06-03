@@ -1,12 +1,20 @@
-:Feasibility Study & Project Proposal •
-.At this point, you will conduct a study to determine the feasibility of developing a Hangrytician app •
-:Project Requirements •
-You will define requirements for the Hangrytician application based on thorough analysis of the needs of the users, •
-.restaurant owners, and delivery team
-:Activities Diagram •
-.You will create an activities chart to visualize the workflow and different activities in the Hangrytician app •
-:Project Use Case Modeling •
-You will model use cases for a Hangrytician application using techniques such as use case diagrams. You will identify •
-.and document various use cases and their associated relationships between actors, systems and processes
-:Creating Sequence Diagrams •
-You will create sequence diagrams to visualize the sequence of messages and interactions •
+# Formal specification using Petri Nets
+
+using petri net we formally specify the following system:
+
+we have a traffic crossroads that organize 4 different lanes,
+only certain traffic light can become green at the same time and the rest of traffic lights are red.
+
+The traffic lights must work with the order mentioned in the picture.
+
+The two traffic lights at lane 1 can be green and the rest are red.
+
+The two traffic lights at lane 2 can be green and the rest are red.
+
+The traffic light at lane 3 can be green and the rest are red.
+
+The traffic light at lane 4 can be green and the rest are red.
+
+The traffic light at lane 5 allows cars to return when it is not conflict with another traffic light.
+
+
